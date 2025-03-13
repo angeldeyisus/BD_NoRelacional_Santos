@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972239270660",
+    "project_id": "cangrejo-subterraneo",
+    "storage_bucket": "cangrejo-subterraneo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972239270660:android:c869f22e16e92f3c779651",
+        "android_client_info": {
+          "package_name": "santos.angel.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqYwm1z_Sruuu1onLL7aDAcOKSyqRod4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
